@@ -3,7 +3,7 @@ pipeline {
 
     tools {
         maven 'Maven'   // Ensure Maven is installed and configured in Jenkins
-        jdk 'Java 21'         // Use your installed JDK version
+        jdk 'JDK 21'         // Use your installed JDK version
     }
 
     stages {
